@@ -10,10 +10,8 @@ Working with technology since 2009. Graduated in Systems Analysisand Development
 [![Artstation](https://img.shields.io/badge/artstation-000?style=for-the-badge&logo=artstation&logoColor=0E76A8)](https://artstation.com/josemarcosnf)
 
 ## Skills
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 
 ## Github Stats
